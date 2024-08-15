@@ -1,6 +1,7 @@
-Design and Implementation of a Pipelined Reliable Transfer
+**Design and Implementation of a Pipelined Reliable Transfer**
 
-Protocol
+**Protocol**
+
 Introduction
 
 In this project, we designed and implemented a transfer protocol using UDP sockets. The protocol incorporates mechanisms for flow control and congestion control to ensure reliable data transmission over an unreliable network. We also simulated packet loss and errors to test the robustness of our protocol.
